@@ -1,2 +1,1 @@
-# Compare_Cylinders
-Developed an application that instantiates two user-defined cylinder classes and allows the user to continuously input choices until they enter a sentinel value.
+Developed a program that enables users to input two circular cylinders and perform multiple calculations, including comparisons, lateral surface area and volume calculation. The program also allows users to run it continuously until a sentinel value is entered.
