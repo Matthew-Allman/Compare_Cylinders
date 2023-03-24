@@ -35,5 +35,5 @@ The program calculates the volume of a cylinder based on the radius and height i
 ## Continuous Execution
 The program allows users to perform multiple calculations on the same or different cylinders without having to restart the program.
 
-##Sentinel Value
-The sentinel value is a special value that the user can enter to exit the program. The default sentinel value is -1, but the user can change it by modifying the SENTINEL constant in the program.
+## Sentinel Value
+The sentinel value is a special value that the user can enter to exit the program. The default sentinel value is 3.
