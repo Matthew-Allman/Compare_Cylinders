@@ -25,3 +25,15 @@ The program also ensures an integer value is entered to avoid errors.
 
 ## Comparison
 The program allows users to compare the volumes of two cylinders and determine which cylinder has a greater volume.
+
+## Lateral Surface Area Calculation
+The program calculates the lateral surface area of a cylinder based on the radius and height input by the user.
+
+## Volume Calculation
+The program calculates the volume of a cylinder based on the radius and height input by the user.
+
+## Continuous Execution
+The program allows users to perform multiple calculations on the same or different cylinders without having to restart the program.
+
+##Sentinel Value
+The sentinel value is a special value that the user can enter to exit the program. The default sentinel value is -1, but the user can change it by modifying the SENTINEL constant in the program.
